@@ -1,5 +1,6 @@
 transformers
 datasets
+accelerate
 torch
 scikit-learn
 pandas
